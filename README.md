@@ -77,16 +77,7 @@ Include average order value and revenue per order
 Create drill-through pages for city-level analysis
 Add customer segmentation and restaurant ratings (if available)
 Incorporate geographic mapping visualizations
-Repository Contents
 
-📂 Zomato-Restaurant-Analysis
-│
-├── Dashboard.pbix
-├── README.md
-├── data/
-├── images/
-│   └── dashboard.png
-└── screenshots/
 
 About This Project
 
