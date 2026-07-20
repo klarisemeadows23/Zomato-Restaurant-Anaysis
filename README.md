@@ -70,6 +70,11 @@ Data Storytelling
 Dashboard Preview
 <img width="2286" height="1156" alt="Screenshot 2026-07-16 074903" src="https://github.com/user-attachments/assets/bf31f524-9e10-48c6-a7dc-015e7edfea42" />
 
+## 📥 Download the Power BI File
+
+The interactive Power BI dashboard can be downloaded from the project's Releases page.
+
+➡️ [Download Version 1.0 (.pbix)](https://github.com/klarisemeadows23/Zomato-Restaurant-Anaysis/releases/tag/v1.0)
 
 Future Improvements
 Add time-series analysis by month and year
